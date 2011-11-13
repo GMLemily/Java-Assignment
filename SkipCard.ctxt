@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=colour\ nSkip
+comment0.target=SkipCard(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SkipCard\r\n
+comment1.params=
+comment1.target=int\ getSkip()
+comment2.params=game
+comment2.target=void\ play(UnoGame)
+comment2.text=\r\n\ Take\ any\ effect\ when\ the\ card\ is\ played.\r\n\ \r\n\ SkipCard\ effect\:\ it\ skips\ the\ nSkip\ player\r\n\ also\ be\ skipped\r\n
+numComments=3

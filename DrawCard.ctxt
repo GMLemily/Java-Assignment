@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=colour\ nDraw
+comment0.target=DrawCard(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DrawCard\r\n
+comment1.params=
+comment1.target=int\ getNDraw()
+comment1.text=\r\n\ Getter\ metthod\r\n
+comment2.params=card
+comment2.target=boolean\ canPlayOn(Card)
+comment2.text=\r\n\ Check\ whether\ this\ card\ can\ be\ played\ on\ the\ given\ card.\ \r\n\ @param\ The\ card\ to\ be\ played\ on\r\n\ @returns\ true\ if\ either\ the\ colours\ or\ the\ symbols\ match\r\n
+comment3.params=game
+comment3.target=void\ play(UnoGame)
+comment3.text=\r\n\ Take\ any\ effect\ when\ the\ card\ is\ played.\r\n\ \r\n\ Drawcard\ effect\:\ the\ next\ player\ draws\ nDraw\ cards\ and\ their\ turn\ will\r\n\ also\ be\ skipped\r\n
+numComments=4

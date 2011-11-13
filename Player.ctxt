@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Player(java.lang.String)
+comment0.text=\r\n\ Create\ a\ player.\ The\ player's\ hand\ is\ initially\ empty.\r\n\ \r\n\ @params\ The\ player's\ name\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Access\ the\ player's\ name\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getCards()
+comment2.text=\r\n\ Access\ the\ player's\ hand\r\n
+comment3.params=
+comment3.target=void\ clearCards()
+comment3.text=\r\n\ Clear\ the\ player's\ hand\r\n
+comment4.params=card
+comment4.target=void\ gainCard(Card)
+comment4.text=\r\n\ Add\ a\ card\ to\ the\ player's\ hand\r\n\ \r\n\ @param\ card\ The\ card\ to\ add.\r\n
+comment5.params=pileCard
+comment5.target=Card\ playCard(Card)
+comment5.text=\r\n\ Choose\ a\ card\ to\ play.\r\n\ \r\n\ @param\ pileCard\ The\ card\ on\ the\ top\ of\ the\ pile\ to\ be\ played\ on.\r\n\ @return\ A\ card\ that\ can\ be\ played\ on\ the\ pileCard,\ or\ null\ if\ none\ is\ available\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ The\ string\ representation\ of\ the\ player\r\n
+numComments=7

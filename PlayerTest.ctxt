@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment1.params=
+comment1.target=void\ testConstructor()
+comment2.params=
+comment2.target=void\ testGainCard()
+comment3.params=
+comment3.target=void\ testClearCards()
+comment4.params=
+comment4.target=void\ testPlayCard1()
+comment5.params=
+comment5.target=void\ testPlayCard2()
+comment6.params=
+comment6.target=void\ testPlayCard2b()
+comment7.params=
+comment7.target=void\ testPlayCard2c()
+comment8.params=
+comment8.target=void\ testPlayCard3()
+comment9.params=
+comment9.target=void\ testPlayCard4()
+numComments=10
